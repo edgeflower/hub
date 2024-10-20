@@ -1,0 +1,3 @@
+/home/lu/Downloads/cpp_test_2024(2)/cpp_test_2024/src/basic/cmake-build-debug/CMakeFiles/basic.dir
+/home/lu/Downloads/cpp_test_2024(2)/cpp_test_2024/src/basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lu/Downloads/cpp_test_2024(2)/cpp_test_2024/src/basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
